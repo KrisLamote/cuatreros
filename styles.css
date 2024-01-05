@@ -74,8 +74,6 @@ section {
 #about .bio {
   margin: -20rem auto 0 auto;
   max-width: 1000px;
-}
-#about .bio h1 {
   text-align: center;
 }
 
